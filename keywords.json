@@ -152,7 +152,7 @@
         ],
         [
             [
-                "cooking",
+                "cook",
                 "meat?"
             ],
             [
@@ -213,7 +213,7 @@
         [
             [
                 "working",
-                "tomorrow?"
+                "weekend?"
             ],
             [
                 "yeah"
@@ -309,8 +309,8 @@
                 "yeah"
             ],
             [
-                "curious",
-                "updated",
+                "interest",
+                "testing",
                 "IOS",
                 "new",
                 "feature."
