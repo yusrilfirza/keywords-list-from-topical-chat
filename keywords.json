@@ -62,7 +62,7 @@
         ],
         [
             [
-                "watching",
+                "watch",
                 "movie?"
             ],
             [
@@ -83,7 +83,7 @@
             [
                 "let's",
                 "meet",
-                "movie",
+                "the_movie",
                 "theater."
             ],
             [
@@ -101,7 +101,7 @@
             [
                 "curious",
                 "coming",
-                "music",
+                "the_music",
                 "concert",
                 "tomorrow."
             ],
@@ -130,8 +130,8 @@
             ],
             [
                 "wanting",
-                "coming",
-                "Adelle",
+                "come",
+                "Adelle's",
                 "concert",
                 "tomorrow."
             ],
@@ -143,8 +143,8 @@
             [
                 "let's",
                 "meet",
-                "concert",
-                "vanue."
+                "the_concert",
+                "venue."
             ],
             [
                 "sure."
@@ -302,7 +302,7 @@
         ],
         [
             [
-                "updated",
+                "update",
                 "phone?"
             ],
             [
